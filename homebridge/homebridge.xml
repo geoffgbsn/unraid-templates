@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <Container version="2">
   <Name>homebridge</Name>
-  <Repository>oznu/homebridge:ubuntu</Repository>
-  <Registry>https://registry.hub.docker.com/r/oznu/homebridge/</Registry>
+  <Repository>homebridge/homebridge:ubuntu</Repository>
+  <Registry>https://registry.hub.docker.com/r/homebridge/homebridge/</Registry>
   <Network>host</Network>
   <MyIP/>
   <Shell>bash</Shell>
