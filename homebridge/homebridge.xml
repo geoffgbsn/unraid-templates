@@ -14,14 +14,14 @@
   </Overview>
   <Category>HomeAutomation:</Category>
   <WebUI>http://[IP]:[PORT:8581]/</WebUI>
-  <TemplateURL>https://raw.githubusercontent.com/oznu/docker-homebridge/master/homebridge.xml</TemplateURL>
+  <TemplateURL>https://raw.githubusercontent.com/homebridge/docker-homebridge/master/homebridge.xml</TemplateURL>
   <Icon>https://raw.githubusercontent.com/homebridge/branding/master/logos/homebridge-color-round-stylized.png</Icon>
   <ExtraParams/>
   <PostArgs/>
   <CPUset/>
   <DateInstalled>1653936537</DateInstalled>
   <DonateText>If you find this project useful please STAR it on GitHub.</DonateText>
-  <DonateLink>https://github.com/oznu/docker-homebridge</DonateLink>
+  <DonateLink>https://github.com/homebridge/docker-homebridge</DonateLink>
   <Requires/>
   <Config Name="Host Path 1" Target="/homebridge" Default="/mnt/user/appdata/homebridge" Mode="rw" Description="" Type="Path" Display="always" Required="true" Mask="false">/mnt/user/appdata/homebridge</Config>
   <Config Name="Key 1" Target="HOMEBRIDGE_CONFIG_UI" Default="1" Mode="" Description="" Type="Variable" Display="always" Required="false" Mask="false">1</Config>
